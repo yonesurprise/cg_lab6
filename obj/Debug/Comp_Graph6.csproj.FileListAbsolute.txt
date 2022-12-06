@@ -1,0 +1,11 @@
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.csproj.AssemblyReference.cache
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.csproj.SuggestedBindingRedirects.cache
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.Form1.resources
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.csproj.GenerateResource.cache
+C:\edu\CG\laba6\bin\Debug\Comp_Graph6.exe.config
+C:\edu\CG\laba6\bin\Debug\Comp_Graph6.exe
+C:\edu\CG\laba6\bin\Debug\Comp_Graph6.pdb
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.Properties.Resources.resources
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.csproj.CoreCompileInputs.cache
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.exe
+C:\edu\CG\laba6\obj\Debug\Comp_Graph6.pdb
